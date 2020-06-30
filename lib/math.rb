@@ -20,7 +20,7 @@ end
 
 def modulo(num1, num2)
   puts "rem"
-  rem = 
+  rem = num1.remainder(num2)
 end
 
 def square_root(num)
